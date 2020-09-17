@@ -1,6 +1,7 @@
 # Walter Alleyz
+<img align="right" width="150" height="50" src="programador.gif">
 - <walterdasilvasantos@gmail.com>
-- (47) 99602-8910 (Whatsapp) ![programador](programador.gif)
+- (47) 99602-8910 (Whatsapp)
 - Camboriú - SC
 
 Desenvolvedor Frontend com conhecimentos em Backend
