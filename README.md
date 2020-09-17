@@ -1,4 +1,4 @@
-<img align="right" width="150" height="100" src="programador.gif">
+<img align="right" width="150" height="100" src="./programador.gif">
 
 # Walter Alleyz
 - <walterdasilvasantos@gmail.com>
