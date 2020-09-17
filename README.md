@@ -1,4 +1,4 @@
-<img align="right" width="150" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F79836-preguica-gifs&psig=AOvVaw1ZjBp1cPW68WUC5K96zU_p&ust=1600390656570000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiWj_f97usCFQAAAAAdAAAAABAD">
+<img align="right" width="150" height="100" src="https://64.media.tumblr.com/d63430c8807d5b097cb185548ee31e7a/tumblr_o4lljuDsnY1rh2oxto1_400.gif">
 
 # Walter Alleyz
 - <walterdasilvasantos@gmail.com>
