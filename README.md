@@ -25,6 +25,7 @@ Desenvolvimento de um simulador financeiro utilizando React e algumas páginas d
 
 ## &#128187; Projetos
 
+#### <span>[SuperLista - Lista de compras online](https://sprlist.herokuapp.com)</span>
 #### <span>[Jhess - Xadrez em Javascript](https://github.com/walteralleyz/jhess)</span>
 #### <span>[Instascript - Automação em Instagram](https://github.com/walteralleyz/InstaScript)</span>
 #### <span>[MakeMeQuizz - Quizz Online](https://github.com/walteralleyz/make-me-quizz)</span>
