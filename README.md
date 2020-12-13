@@ -15,13 +15,29 @@ Desenvolvedor Frontend com conhecimentos em Backend
 
 ## &#128083; Experiência
 
-### <span>Estagiario Javascript, Best Soluções Financeiras</span> <span>04 / 2018 até 10 / 2014</span>
+### <span>Estagiario Javascript, Best Soluções Financeiras</span>
+<br />
+<span>04 / 2018 até 10 / 2014</span>
+<br />
 
 Desenvolvimento de páginas WEB, automação de processos em Python, coleta de dados de clientes, criação de filtros e ferramentas para segurança de informação, consumo e vinculação de APIs.
 
-### <span>Freelancer, Autônomo</span> <span>05 / 2020 até 07 / 2020</span>
+### <span>Freelancer, Autônomo</span>
+<br />
+<span>05 / 2020 até 07 / 2020</span>
+<br />
 
 Desenvolvimento de formulários para uma financeira utilizando React, Redux e Sass. Um pouco de backend com Node, Express e MongoDB, para desenvolver um sistema de integração com emails e geração de PDF.
+
+### <span>Promotor de vendas, Varejo</span>
+<br />
+<span>04 / 2012 até 03 / 2020</span>
+<br />
+
+Trabalhei em diversas empresas do varejo alimentício.
+Atuei em muitos cargos operacionais, como:
+caixa, repositor, estoquista e promotor de vendas. Também tive a oportunidade de participar como líder interino, num período de 3 meses, assistente de faturamento e auditor de estoque (contagem e qualidade).
+
 
 ## &#128187; Projetos
 
@@ -33,4 +49,6 @@ Desenvolvimento de formulários para uma financeira utilizando React, Redux e Sa
 
 ##  &#128212; Educação
 
-### <span>Engenharia de Software, Unicesumar</span> <span>2018 -- Trancado</span>
+### <span>Engenharia de Software, Unicesumar</span>
+<br />
+<span>2018 -- Trancado</span>
