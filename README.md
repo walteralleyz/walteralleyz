@@ -1,5 +1,5 @@
 <kbd>
-  <img alt="Im perfect for this job!" align="right" width="150" height="100" src="https://media.tenor.com/images/bbed4b49bd4e47ee42e8dffed7670d1c/tenor.gif">
+  <img alt="Im perfect for this job!" src="https://media.tenor.com/images/bbed4b49bd4e47ee42e8dffed7670d1c/tenor.gif">
 </kbd>
 
 # Walter da Silva Santos
