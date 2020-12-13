@@ -1,6 +1,6 @@
-<img align="right" width="150" height="100" src="https://media.giphy.com/media/aVOgaQLUVsHss/giphy.gif">
+<img align="right" width="100" height="100" src="https://media.tenor.com/images/bbed4b49bd4e47ee42e8dffed7670d1c/tenor.gif">
 
-# Walter Da Silva Santos
+# Walter da Silva Santos
 &#128583; <https://walteralleyz.github.io> <br />
 &#128232; <walterdasilvasantos@gmail.com> <br />
 &#128222; (47) 99602-8910 (Whatsapp) <br />
@@ -8,10 +8,10 @@
 
 Desenvolvedor Frontend com conhecimentos em Backend
 
-| *            | Web | Python | Node | Java | SQL | NoSQL | React | SASS |
-|--------------|:---:|:------:|:----:|:----:|:---:|:-----:|:-----:|:----:|
-| Anos         |  2  |   1    |   1  |  1   | 1   |   1   |  1    |  1   |
-| Nivel | &#127765; | &#127767; | &#127766; | &#127766; | &#127766; | &#127766; | &#127766; | &#127766; |
+| *            | Web | Python | Node | Java | SQL | NoSQL | React | SASS | Typescript |
+|--------------|:---:|:------:|:----:|:----:|:---:|:-----:|:-----:|:----:|:----------:|
+| Anos         |  2  |   1    |   1  |  1   | 1   |   1   |  1    |  1   |     1      |
+| Nivel | &#127765; | &#127767; | &#127766; | &#127766; | &#127766; | &#127766; | &#127766; | &#127766; | &#127766; |
 
 ## &#128083; Experiência
 
@@ -54,4 +54,4 @@ caixa, repositor, estoquista e promotor de vendas. Também tive a oportunidade d
 ### <span>Engenharia de Software, Unicesumar</span>
 
 
-<span>2018 -- Trancado</span>
+<span>02 / 2018 -- Trancado</span>
