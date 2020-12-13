@@ -1,4 +1,4 @@
-<img align="right" width="150" height="100" src="https://media.tenor.com/images/bbed4b49bd4e47ee42e8dffed7670d1c/tenor.gif">
+<img align="right" width="150" height="100" style="border: 1px dashed #333" src="https://media.tenor.com/images/bbed4b49bd4e47ee42e8dffed7670d1c/tenor.gif">
 
 # Walter da Silva Santos
 &#128583; <https://walteralleyz.github.io> <br />
