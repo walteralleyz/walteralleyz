@@ -1,6 +1,6 @@
-<figure align="right">
+<figure style="float: right">
   <img width="150" height="100" src="https://media.giphy.com/media/aVOgaQLUVsHss/giphy.gif">
-  <figcaption>Hire me!</figcaption>
+  <figcaption>Me Contrate!</figcaption>
 </figure>
 
 # Walter Da Silva Santos
