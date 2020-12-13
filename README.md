@@ -1,7 +1,4 @@
-<figure style="float: right">
-  <img width="150" height="100" src="https://media.giphy.com/media/aVOgaQLUVsHss/giphy.gif">
-  <figcaption>Me Contrate!</figcaption>
-</figure>
+<img align="right" width="150" height="100" src="https://media.giphy.com/media/aVOgaQLUVsHss/giphy.gif">
 
 # Walter Da Silva Santos
 &#128583; <https://walteralleyz.github.io> <br />
@@ -11,10 +8,10 @@
 
 Desenvolvedor Frontend com conhecimentos em Backend
 
-| Tempo (anos) | Web | Python | Node | SQL | NoSQL |
-|--------------|:---:|:------:|:----:|:---:|:-----:|
-| *            |  2  |   1    |   1  |  1  |   1   |
-| Nivel | &#127765; | &#127767; | &#127766; | &#127766; | &#127766; |
+| *            | Web | Python | Node | Java | SQL | NoSQL | React | SASS |
+|--------------|:---:|:------:|:----:|:----:|:---:|:-----:|:-----:|:----:|
+| Anos         |  2  |   1    |   1  |  1   | 1   |   1   |  1    |  1   |
+| Nivel | &#127765; | &#127767; | &#127766; | &#127766; | &#127766; | &#127766; | &#127766; | &#127766; |
 
 ## &#128083; Experiência
 
