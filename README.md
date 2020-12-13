@@ -1,6 +1,8 @@
+<p style="text-align: right">
 <kbd>
   <img alt="Im perfect for this job!" src="https://media.tenor.com/images/bbed4b49bd4e47ee42e8dffed7670d1c/tenor.gif">
 </kbd>
+</p>
 
 # Walter da Silva Santos
 &#128583; <https://walteralleyz.github.io> <br />
