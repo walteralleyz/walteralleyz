@@ -1,7 +1,9 @@
+<figure>
+  <img align="right" width="150" height="100" src="https://media.giphy.com/media/aVOgaQLUVsHss/giphy.gif">
+  <figcaption>Hire me!</figcaption>
+</figure>
 
-<img align="right" width="150" height="100" src="https://64.media.tumblr.com/d63430c8807d5b097cb185548ee31e7a/tumblr_o4lljuDsnY1rh2oxto1_400.gif">
-
-# Walter Alleyz
+# Walter Da Silva Santos
 &#128583; <https://walteralleyz.github.io> <br />
 &#128232; <walterdasilvasantos@gmail.com> <br />
 &#128222; (47) 99602-8910 (Whatsapp) <br />
