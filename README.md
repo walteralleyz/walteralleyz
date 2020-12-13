@@ -1,5 +1,5 @@
-<figure>
-  <img align="right" width="150" height="100" src="https://media.giphy.com/media/aVOgaQLUVsHss/giphy.gif">
+<figure align="right">
+  <img width="150" height="100" src="https://media.giphy.com/media/aVOgaQLUVsHss/giphy.gif">
   <figcaption>Hire me!</figcaption>
 </figure>
 
