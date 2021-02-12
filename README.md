@@ -15,6 +15,13 @@ Desenvolvedor Frontend com conhecimentos em Backend
 
 ## &#128083; Experiência
 
+### <span>Desenvolvedor Backend Java, Zup Innovation</span>
+
+
+<span>Atualmente</span>
+
+Construindo APIs com Spring Boot, SQL, Docker e Kafka.
+
 ### <span>Estagiario Javascript, Best Soluções Financeiras</span>
 
 
